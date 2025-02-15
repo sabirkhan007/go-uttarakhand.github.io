@@ -1,1 +1,0 @@
-# go-uttarakhand.github.io
