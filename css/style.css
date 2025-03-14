@@ -454,6 +454,7 @@
     font-weight: normal;
     text-transform: capitalize;
     transition: .3s;
+    text-decoration: none;
 }
 
 .footer .btn.btn-link::before {
@@ -494,4 +495,8 @@
 
 .banner-bg{
     background: #b5b181;
+}
+
+a {
+    text-decoration: none;
 }
